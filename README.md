@@ -4,7 +4,7 @@
  I am an aspiring Full-stack developer with a passion for learning about new ideas and expanding my technical experience!
 
 ## Fun Fact ✨
-## When I'm not coding, you can find me baking, exercising, going on walks at the park, or binge watching movies.
+When I'm not coding, you can find me baking, exercising, going on walks at the park, or binge watching movies.
 
 <!--
 **Kareen-dotcom/Kareen-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
